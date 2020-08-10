@@ -1,0 +1,20 @@
+.row{
+    padding-top: 30px;
+}
+.chicken{
+    border: 1px solid #b0cac7;
+}
+
+.beef{
+    border: 1px solid #f7d6bf;
+}
+.sushi{
+    border: 1px solid #318fb5;
+}
+.menu{
+    text-align: center;
+    margin: 30px;
+}
+.name{
+    text-align: center;
+}
